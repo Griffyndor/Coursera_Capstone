@@ -10,7 +10,7 @@ This final project explores the best locations for Jamaican restaurants througho
 
 **Problem Statement**
 
-What is / are the best location(s) for Jamaican cuisine in New York City? In what Neighborhood and/or borough should the investor open a Jamaican restaurant to have the best chance of being successful? Where would I go in New York City to have the best Japanese food?
+What is / are the best location(s) for Jamaican cuisine in New York City? In what Neighborhood and/or borough should the investor open a Jamaican restaurant to have the best chance of being successful? Where would I go in New York City to have the best Jamaican food?
 
 **Data**
 
