@@ -1,5 +1,5 @@
 **Introduction & Business Problem :**
-  **Problem Background:**
+  \**Problem Background:**
 
   The City of New York, is the most famous and vibrant city in the United States.It is seen as a melting pot of cultures which means that is it likely to also be a melting pot for food.
 With this popularity it provides an enabling environment for buinesses of various types.
@@ -8,11 +8,11 @@ Over the last decade the city has been growing faster than the region. The New Y
 This final project explores the best locations for Jamaican restaurants throughout the city of New York.
 
 **Problem Statement**
-  What is / are the best location(s) for Jamaican cuisine in New York City? In what Neighborhood and/or borough should the investor open a Jamaican restaurant to have the best chance of being successful? Where would I go in New York City to have the best Japanese food?
+ \ What is / are the best location(s) for Jamaican cuisine in New York City? In what Neighborhood and/or borough should the investor open a Jamaican restaurant to have the best chance of being successful? Where would I go in New York City to have the best Japanese food?
 
 **Data**
 
-  Data on New York City neighborhoods, boroughs, and their respective latitudes & longitudes,  as well as the restaurant ratings and tips are required.
+ \ Data on New York City neighborhoods, boroughs, and their respective latitudes & longitudes,  as well as the restaurant ratings and tips are required.
 
 New York City location data containing the neighborhoods and boroughs, latitudes, and longitudes will be obtained from the data source: https://cocl.us/new_york_dataset
 
